@@ -1,0 +1,24 @@
+# Ambiente
+.venv/
+venv/
+
+# Variáveis sensíveis
+.env
+session.session
+session.session-journal
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Saídas do projeto
+temp/
+output/
+videos/
+
+# IDE
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
